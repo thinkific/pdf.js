@@ -2328,6 +2328,7 @@ if (typeof PDFJSDev === "undefined" || PDFJSDev.test("GENERIC")) {
     "null",
     "http://mozilla.github.io",
     "https://mozilla.github.io",
+    "https://cdn.thinkific.com",
   ];
   validateFileURL = function (file) {
     if (file === undefined) {
